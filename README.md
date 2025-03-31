@@ -18,8 +18,8 @@ This project implements two classic iterative methods — the Gauss-Seidel and J
 - `Gauss_Seidel.cpp`: Gauss-Seidel solver
 - `Aux_implement.cpp`: Auxiliary math functions (abs, pow, etc.)
 - `Intro.cpp`: Output formatting and helper functions
-- `T7-Gauss-Seidel+Jacobi-C++.pdf`: Documentation/report
-- `Gauss Seidel_Jacobi_Result.jpg`: Output example/visual result
+- `Problem_Description.pdf`: Documentation/report
+- `Ideal_Result.jpg`: Output example/visual result
 
 ## 📚 Technologies
 - C++ (Standard I/O, modular programming)
