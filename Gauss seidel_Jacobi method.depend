@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1705337439 source:d:\cms_masters_2023\semester_1\introduction to scientific programming\day_8 (05dec2023)\gauss seidel_jacobi method\main.cpp
+	<iostream>
+	"Aux_Functions.hpp"
+	"Matrix_Functions.hpp"
+	"Iteration_Methods.hpp"
+	"intro.hpp"
+
+1704661527 source:d:\cms_masters_2023\semester_1\introduction to scientific programming\day_8 (05dec2023)\gauss seidel_jacobi method\main - copy.cpp
+	<iostream>
+
+1704663985 source:d:\cms_masters_2023\semester_1\introduction to scientific programming\day_8 (05dec2023)\gauss seidel_jacobi method\aux_implement.cpp
+	"Aux_Functions.hpp"
+	"Matrix_Functions.hpp"
+	"Iteration_Methods.hpp"
+
+1704662507 d:\cms_masters_2023\semester_1\introduction to scientific programming\day_8 (05dec2023)\gauss seidel_jacobi method\aux_functions.hpp
+
+1704662285 d:\cms_masters_2023\semester_1\introduction to scientific programming\day_8 (05dec2023)\gauss seidel_jacobi method\matrix_functions.hpp
+
+1705339566 source:d:\cms_masters_2023\semester_1\introduction to scientific programming\day_8 (05dec2023)\gauss seidel_jacobi method\gauss_siedel.cpp
+	<iostream>
+	"Aux_Functions.hpp"
+	"Matrix_Functions.hpp"
+	"Iteration_Methods.hpp"
+
+1705339651 source:d:\cms_masters_2023\semester_1\introduction to scientific programming\day_8 (05dec2023)\gauss seidel_jacobi method\jacobi.cpp
+	<iostream>
+	"Aux_Functions.hpp"
+	"Matrix_Functions.hpp"
+	"Iteration_Methods.hpp"
+
+1704792989 source:d:\cms_masters_2023\semester_1\introduction to scientific programming\day_8 (05dec2023)\gauss seidel_jacobi method\matrix_implement.cpp
+	"Aux_Functions.hpp"
+	"Matrix_Functions.hpp"
+	"Iteration_Methods.hpp"
+
+1704726752 d:\cms_masters_2023\semester_1\introduction to scientific programming\day_8 (05dec2023)\gauss seidel_jacobi method\iteration_methods.hpp
+
+1704665728 source:d:\cms_masters_2023\semester_1\introduction to scientific programming\day_8 (05dec2023)\gauss seidel_jacobi method\intro.cpp
+	<iostream>
+	"intro.hpp"
+
+1701727914 d:\cms_masters_2023\semester_1\introduction to scientific programming\day_8 (05dec2023)\gauss seidel_jacobi method\intro.hpp
+

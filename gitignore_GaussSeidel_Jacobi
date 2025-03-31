@@ -1,0 +1,15 @@
+# C++ object files and compiled executables
+*.out
+*.o
+*.exe
+
+# Temporary or backup files
+*~
+*.bak
+
+# Editor folders
+.vscode/
+.idea/
+
+# Build folders
+build/
